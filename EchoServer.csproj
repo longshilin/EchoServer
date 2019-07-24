@@ -46,7 +46,9 @@
     <Compile Include="Chapter 01\FinalChatServer.cs" />
     <Compile Include="Chapter 01\ChatServer.cs" />
     <Compile Include="Chapter 01\EchoServer.cs" />
-    <Compile Include="Chapter 02\GameServer.cs" />
+    <Compile Include="Chapter 02\EventHandler.cs" />
+    <Compile Include="Chapter 02\MainClass.cs" />
+    <Compile Include="Chapter 02\MsgHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
